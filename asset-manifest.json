@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/runnable013.github.io/movie_app_2019/static/css/main.7d0d1a90.chunk.css",
+    "main.js": "/runnable013.github.io/movie_app_2019/static/js/main.9fbb90a1.chunk.js",
+    "main.js.map": "/runnable013.github.io/movie_app_2019/static/js/main.9fbb90a1.chunk.js.map",
+    "runtime-main.js": "/runnable013.github.io/movie_app_2019/static/js/runtime-main.ee95f442.js",
+    "runtime-main.js.map": "/runnable013.github.io/movie_app_2019/static/js/runtime-main.ee95f442.js.map",
+    "static/js/2.1eb8c03c.chunk.js": "/runnable013.github.io/movie_app_2019/static/js/2.1eb8c03c.chunk.js",
+    "static/js/2.1eb8c03c.chunk.js.map": "/runnable013.github.io/movie_app_2019/static/js/2.1eb8c03c.chunk.js.map",
+    "static/js/3.0ad4a1f0.chunk.js": "/runnable013.github.io/movie_app_2019/static/js/3.0ad4a1f0.chunk.js",
+    "static/js/3.0ad4a1f0.chunk.js.map": "/runnable013.github.io/movie_app_2019/static/js/3.0ad4a1f0.chunk.js.map",
+    "index.html": "/runnable013.github.io/movie_app_2019/index.html",
+    "static/css/main.7d0d1a90.chunk.css.map": "/runnable013.github.io/movie_app_2019/static/css/main.7d0d1a90.chunk.css.map",
+    "static/js/2.1eb8c03c.chunk.js.LICENSE.txt": "/runnable013.github.io/movie_app_2019/static/js/2.1eb8c03c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee95f442.js",
+    "static/js/2.1eb8c03c.chunk.js",
+    "static/css/main.7d0d1a90.chunk.css",
+    "static/js/main.9fbb90a1.chunk.js"
+  ]
+}
